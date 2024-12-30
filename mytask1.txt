@@ -1,9 +1,1 @@
 this is my assignment file.
-<<<<<<< HEAD
-
-Check conflict
-reset the changes
-Revert Changes
-=======
-Check conflict
->>>>>>> 50c9e2bd6af430fdf702c91961069858541eb04c
