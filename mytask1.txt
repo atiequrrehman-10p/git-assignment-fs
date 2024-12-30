@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is my assignment file. creating conflict
+=======
+This is my assignment file. To test the conflict here
+>>>>>>> main
