@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 this is my assignment file. Check Conflicts Edit from FB
-=======
-this is my assignment file. Check Conflicts edit 2
->>>>>>> main
